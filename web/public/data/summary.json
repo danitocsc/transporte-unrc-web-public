@@ -1,0 +1,1077 @@
+{
+  "siteUrl": "https://transporte.tijuana.cloud",
+  "qrUrl": "https://transporte.tijuana.cloud",
+  "generatedAt": "2026-04-06T08:20:24.869905+00:00",
+  "recipientInstitution": "Universidad Nacional Rosario Castellanos Unidad Tijuana",
+  "institution": "Universidad Nacional Rosario Castellanos",
+  "reportTitle": "Reporte de demanda de transporte estudiantil",
+  "reportSubtitle": "Analisis territorial, operativo y de sugerencias estudiantiles",
+  "author": {
+    "name": "Daniel Cruz",
+    "email": "daniel.cruz@tijuana.cloud",
+    "phone": ""
+  },
+  "hosting": {
+    "label": "Sitio hosteado por Tijuana Cloud",
+    "brand": "Tijuana Cloud",
+    "url": "https://tijuana.cloud",
+    "logo": "/brand/tijuana-cloud-logo.png"
+  },
+  "metrics": {
+    "totalResponses": 192,
+    "geolocated": 190,
+    "geolocatedPct": 98.96,
+    "comments": 146,
+    "commentsPct": 76.04,
+    "uniqueColonias": 70,
+    "topTurno": "Matutino",
+    "topColonia": "Natura"
+  },
+  "series": {
+    "turnos": [
+      {
+        "Categoria": "Matutino",
+        "Cantidad": 96,
+        "Porcentaje": 50.0
+      },
+      {
+        "Categoria": "Intermedio",
+        "Cantidad": 53,
+        "Porcentaje": 27.604166666666668
+      },
+      {
+        "Categoria": "Vespertino",
+        "Cantidad": 42,
+        "Porcentaje": 21.875
+      },
+      {
+        "Categoria": "Matutino (7:00 a 11:00)",
+        "Cantidad": 1,
+        "Porcentaje": 0.5208333333333333
+      }
+    ],
+    "dias": [
+      {
+        "Categoria": "Lunes a Miercoles",
+        "Cantidad": 94,
+        "Porcentaje": 48.95833333333333
+      },
+      {
+        "Categoria": "Jueves a Sabado",
+        "Cantidad": 68,
+        "Porcentaje": 35.41666666666667
+      },
+      {
+        "Categoria": "Todos los días",
+        "Cantidad": 30,
+        "Porcentaje": 15.625
+      }
+    ],
+    "colonias": [
+      {
+        "Categoria": "Natura",
+        "Cantidad": 30,
+        "Porcentaje": 15.625
+      },
+      {
+        "Categoria": "Centro",
+        "Cantidad": 13,
+        "Porcentaje": 6.770833333333333
+      },
+      {
+        "Categoria": "Delicias",
+        "Cantidad": 13,
+        "Porcentaje": 6.770833333333333
+      },
+      {
+        "Categoria": "Urbi Villas del Prado",
+        "Cantidad": 12,
+        "Porcentaje": 6.25
+      },
+      {
+        "Categoria": "Florido",
+        "Cantidad": 10,
+        "Porcentaje": 5.208333333333334
+      },
+      {
+        "Categoria": "Paseos del Vergel",
+        "Cantidad": 10,
+        "Porcentaje": 5.208333333333334
+      },
+      {
+        "Categoria": "5 y 10",
+        "Cantidad": 8,
+        "Porcentaje": 4.166666666666666
+      },
+      {
+        "Categoria": "Plaza Paseo 2000",
+        "Cantidad": 6,
+        "Porcentaje": 3.125
+      },
+      {
+        "Categoria": "Otay Bellas Artes",
+        "Cantidad": 5,
+        "Porcentaje": 2.604166666666667
+      },
+      {
+        "Categoria": "Villa del Campo",
+        "Cantidad": 5,
+        "Porcentaje": 2.604166666666667
+      },
+      {
+        "Categoria": "La Presa",
+        "Cantidad": 4,
+        "Porcentaje": 2.083333333333333
+      },
+      {
+        "Categoria": "Morita",
+        "Cantidad": 4,
+        "Porcentaje": 2.083333333333333
+      },
+      {
+        "Categoria": "Mariano Matamoros",
+        "Cantidad": 3,
+        "Porcentaje": 1.5625
+      },
+      {
+        "Categoria": "Casa Blanca",
+        "Cantidad": 3,
+        "Porcentaje": 1.5625
+      },
+      {
+        "Categoria": "El Refugio",
+        "Cantidad": 3,
+        "Porcentaje": 1.5625
+      },
+      {
+        "Categoria": "Puerta Plata",
+        "Cantidad": 3,
+        "Porcentaje": 1.5625
+      },
+      {
+        "Categoria": "Altiplano",
+        "Cantidad": 3,
+        "Porcentaje": 1.5625
+      },
+      {
+        "Categoria": "Hacienda Los Venados",
+        "Cantidad": 2,
+        "Porcentaje": 1.0416666666666665
+      },
+      {
+        "Categoria": "Santa Fe",
+        "Cantidad": 2,
+        "Porcentaje": 1.0416666666666665
+      },
+      {
+        "Categoria": "Homex",
+        "Cantidad": 2,
+        "Porcentaje": 1.0416666666666665
+      }
+    ]
+  },
+  "suggestions": {
+    "totalComments": 146,
+    "themes": [
+      {
+        "label": "Tarifa estudiantil / precio justo",
+        "count": 55,
+        "percentage": 37.67123287671233
+      },
+      {
+        "label": "Cobertura en colonias especificas",
+        "count": 46,
+        "percentage": 31.506849315068493
+      },
+      {
+        "label": "Ruta directa y menos transbordos",
+        "count": 48,
+        "percentage": 32.87671232876712
+      },
+      {
+        "label": "Horarios y puntualidad",
+        "count": 36,
+        "percentage": 24.65753424657534
+      },
+      {
+        "label": "Retorno o llegada a la entrada",
+        "count": 32,
+        "percentage": 21.91780821917808
+      },
+      {
+        "label": "Seguridad y cruce peatonal",
+        "count": 39,
+        "percentage": 26.71232876712329
+      },
+      {
+        "label": "Apoyo a grupos vulnerables",
+        "count": 4,
+        "percentage": 2.73972602739726
+      },
+      {
+        "label": "Seguimiento del transporte",
+        "count": 2,
+        "percentage": 1.36986301369863
+      }
+    ],
+    "fareSummary": "Los montos mas repetidos se concentran en 15 pesos (13), 10 pesos (10), 18 pesos (9).",
+    "topFareValues": [
+      {
+        "value": 15,
+        "count": 13
+      },
+      {
+        "value": 10,
+        "count": 10
+      },
+      {
+        "value": 18,
+        "count": 9
+      },
+      {
+        "value": 20,
+        "count": 8
+      },
+      {
+        "value": 8,
+        "count": 7
+      }
+    ],
+    "wordCloud": [
+      {
+        "text": "Transporte",
+        "count": 42,
+        "weight": 3.5
+      },
+      {
+        "text": "Universidad",
+        "count": 40,
+        "weight": 3.35
+      },
+      {
+        "text": "Pesos",
+        "count": 38,
+        "weight": 3.2
+      },
+      {
+        "text": "Ruta",
+        "count": 35,
+        "weight": 2.98
+      },
+      {
+        "text": "Tarifa",
+        "count": 27,
+        "weight": 2.39
+      },
+      {
+        "text": "Natura",
+        "count": 24,
+        "weight": 2.16
+      },
+      {
+        "text": "Cruzar",
+        "count": 21,
+        "weight": 1.94
+      },
+      {
+        "text": "Puente",
+        "count": 21,
+        "weight": 1.94
+      },
+      {
+        "text": "Pase",
+        "count": 20,
+        "weight": 1.87
+      },
+      {
+        "text": "Escuela",
+        "count": 16,
+        "weight": 1.57
+      },
+      {
+        "text": "Tomar",
+        "count": 13,
+        "weight": 1.35
+      },
+      {
+        "text": "Horarios",
+        "count": 13,
+        "weight": 1.35
+      },
+      {
+        "text": "Estudiantes",
+        "count": 12,
+        "weight": 1.27
+      },
+      {
+        "text": "Llegar",
+        "count": 12,
+        "weight": 1.27
+      },
+      {
+        "text": "Seria",
+        "count": 12,
+        "weight": 1.27
+      },
+      {
+        "text": "Tomo",
+        "count": 12,
+        "weight": 1.27
+      },
+      {
+        "text": "Hasta",
+        "count": 12,
+        "weight": 1.27
+      },
+      {
+        "text": "Rutas",
+        "count": 11,
+        "weight": 1.2
+      },
+      {
+        "text": "Estudiante",
+        "count": 11,
+        "weight": 1.2
+      },
+      {
+        "text": "Taxi",
+        "count": 10,
+        "weight": 1.12
+      },
+      {
+        "text": "Sendero",
+        "count": 10,
+        "weight": 1.12
+      },
+      {
+        "text": "Bulevar",
+        "count": 9,
+        "weight": 1.05
+      },
+      {
+        "text": "Horario",
+        "count": 9,
+        "weight": 1.05
+      },
+      {
+        "text": "Casa",
+        "count": 9,
+        "weight": 1.05
+      },
+      {
+        "text": "Retorno",
+        "count": 9,
+        "weight": 1.05
+      },
+      {
+        "text": "Refugio",
+        "count": 9,
+        "weight": 1.05
+      },
+      {
+        "text": "Retornar",
+        "count": 8,
+        "weight": 0.97
+      },
+      {
+        "text": "Blvd",
+        "count": 8,
+        "weight": 0.97
+      },
+      {
+        "text": "Precio",
+        "count": 8,
+        "weight": 0.97
+      },
+      {
+        "text": "Taxis",
+        "count": 8,
+        "weight": 0.97
+      },
+      {
+        "text": "Centro",
+        "count": 8,
+        "weight": 0.97
+      },
+      {
+        "text": "Pasar",
+        "count": 8,
+        "weight": 0.97
+      },
+      {
+        "text": "Salida",
+        "count": 8,
+        "weight": 0.97
+      },
+      {
+        "text": "Urbi",
+        "count": 7,
+        "weight": 0.9
+      },
+      {
+        "text": "Delicias",
+        "count": 7,
+        "weight": 0.9
+      },
+      {
+        "text": "Tenemos",
+        "count": 7,
+        "weight": 0.9
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Una ruta que pase por urbi 1, delicias, natura donde somos mas personas las que asisten de esos fraccionamientos",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Un transporte para los estudiantes, ya que tenemos que cruzar la calle al tomar el transporte ya que no quieren retornar los choferes, una ruta para natura y que la tarifa sean 10 pesos, es de urgencia ya que peligramos al cruzar el blvd",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Una ruta desde Blvd Gustavo Díaz Ordaz pasando por la presa ,imos y llegue ala universidad nacional rosario castellanos , 16 pesos de tarifa , ya que muchas veces no hay trasporte directo que pase por zonas más frecuentadas y en los horarios establecidos",
+        "colonia": "3 de Octubre",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Ruta que favorezca a todos como estudiantes y choferes. Que puedan retornar para dejarnos en la universidad, mientras se realiza el puente pueden poner unidades especiales considerando un precio diferente si es necesario",
+        "colonia": "Otay Bellas Artes",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Ocupo transporte se me dificulta ir mucho por eso",
+        "colonia": "Mariano Matamoros",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Si hace recorrido en natura, tomar en cuenta que son muchas secciones y más o menos la ruta de taxi normal es de 30 minutos y al salir al bulevar 2000 son 15 minutos para llegar a la Universidad, en costo el taxi cobra 20 pesos, así que mientras no pase de ese monto el precio esta bien",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Que pueda recoger en el alto del Oxxo los volcanes donde aún lado se encuentra una farmacia y un First cash, que pase alas 10:00 ya que llegaré justo a mis horarios de clase y de tarifa considero lo mismo q los otros taxis que son 18 pesos para llegar ala universidad",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Obtener una ruta para la escuela nada más",
+        "colonia": "La Presa",
+        "turno": "Matutino"
+      },
+      {
+        "text": "La tarifa pienso que sería 10",
+        "colonia": "Paseos del Vergel",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Horario 6:20 am, tarifa 50 MXN",
+        "colonia": "El Nino",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Se respete el precio a estudiantes también que las personas con discapacidad las suban y no renieguen ,que allá una ruta y no dos para ir ala universidad y rutas desde el centro casa blanca y dosmil para llegar ala universidad en un solo tranporte",
+        "colonia": "Centro",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Una ruta que pueda salir de la universidad con destino a Siglo XXI o Carrousel sería excelente para estudiantes que vivimos a los alrededores",
+        "colonia": "Sanchez Taboada",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Podrían poner un camión que sea solamente para estudiantes",
+        "colonia": "Plaza Paseo 2000",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Yo pienso que 100 por los 3 dias",
+        "colonia": "Colonia El Manantial",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "14 pesos que pase a las 6:30 y que venga desde viveica recogiendo alumnos que se detenga en el alto que está en la esquina para cruzar a plaza las fuentes el que está junto a los mariscos y mi sugerencia es que ya construyan el puente",
+        "colonia": "Florido",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Tarifa de estudiante",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Puente de las aguas y Blvd 2000",
+        "colonia": "Boulevard Cucapah",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Buenas tardes. Salgo de mi casa 6:15 am - 6:20 am y llegó a la institución 7:00 am. Tomo 4 transportes al día. Consideraría justo que las tarifas estuvieran máximo 15 pesos (yo pago 20 y 18 considerando que dos son de 20 y dos de 18). Me gustaría demasiado que implementen el transporte y pase por donde espero mi transporte. Igual podría pasar por la principal de terrazas primera sección o por la segunda principal segunda sección. Puedo acercarme a ambas sin ningún inconveniente. Gracias!",
+        "colonia": "Terrazas del Valle",
+        "turno": "Matutino"
+      },
+      {
+        "text": "20 pesos para estudiante. Ruta: Calle segunda hacia vía rápida. QUE REALMENTE RETORNE A LA UNIVERSIDAD. URGEN GESTIONES PARA EL PUENTE PEATONAL",
+        "colonia": "Centro",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Transporte para todos los turnos desde centro, playas, hasta la UNI",
+        "colonia": "5 y 10",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Estaría bien que pase por los alumnos que vivimos lejos en el centro",
+        "colonia": "Casa Blanca",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Principal de la morita o puente peatonal del 2000 y que den el retorno hacia la universalidad",
+        "colonia": "Morita",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Una ruta que vaya desde el centro que pase por la calle tercera o por donde sea cin un horario de las 12pm . O Una ruta donde pase por la vía rápida poniente o por la 5y10 . Con una cuota justa ya sean unos 10 pesos , yo salgo tarde de la universidad a las 7 pm y termino llegando a mi casa a las 9 :40 pm y tengo que tomar taxi de ruta y me cobran 20 pesos , tomo a veces 3 . Vengo desde playas de tijuana y tomo como 5 transporte y a veces que se me hace tarde por el tráfico tomo uber que me cobra 150",
+        "colonia": "Calle Primavera #13",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Que en alguna aplicación s pueda ver donde viene el transporte",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Trasporte para discapacitados qué tenga como ruta el bulevard casa blanca llevándonos hasta la Universidad sin tener que transbordar, con descuento para los estudiantes. Con horarios adecuados para llegar. Tiempo al plantel",
+        "colonia": "Luisa Martínez 11629",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "En natura arboledas a las 6:40, 10 pesos",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Ruta Centro-Delicias, ampliar horario hasta las 8 PM. Y 20 pesos se me hace justo (actualmente cobran 18 pesos)",
+        "colonia": "Libertad",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Por blvd 2000con rumbo a la universidad los horarios desde las 7 am hasta las 5 pm y las tarifas consideradas À las actuales en el transporte público",
+        "colonia": "Paseos del Vergel",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Ojala se considere una ruta desde 5y10 o Zona Centro, que llegue directamente a la universidad, cruzar el bulevar es muy peligroso y los taxistas no te quieren dejar en la entrada de la uni, lastimosamente se levantan quejan ante IMOS y no se hace nada, las tarifas podrían ser de entre $18 a $22 o fijar algun precio de estudiante",
+        "colonia": "Natura",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Poner rutas específicas, porque el transporte público no nos deje directo a la universidad, tenemos que cruzar la carretera y es peligroso, y debería haber una ruta para el refugio/Lomas del refugio, para mayor seguridad , porque somos varios de lomas del refugio o el refugio, gracias",
+        "colonia": "Paseos del Vergel",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Poner un transporte de regreso de la escuela a natura, a las 3 pm, la tarifa sea igual que un transporte público",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "20 pesitos ida y vuelta",
+        "colonia": "El Refugio",
+        "turno": "Matutino"
+      },
+      {
+        "text": "No todos los taxistas están dispuestos a dar la vuelta necesaria o ajustar su ruta avitual para dejar a los estudiantes",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Una sugerencias sería que si puede por el momento en lo que ajustan o deciden si se puede hacer rutas, sería una opción que en los horarios que empiezo de las clases y al finalizar horario estuviera un trasporte que facilite el cruce del bulevar de ambos lados Ejemplo 6:30 o 6:40 poner un trasporte que esté frente a la escuela donde se pueda tomar y evitar un accidente por el cruce del bulevar y al finalizar las clases 11:15 o 11:20 uno de lado de la escuela que cruce hacia el lado contrario así sucesivamente con lo demás horarios",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Un transporte de casa blanca hasta el 2000 que pase por enfrente de la escuela ya que mucha gente va para ese rumbo y hay poco transporte o nulo , ninguno pasa por ahi, así como un puente peatonal frente a la escuela y un retorno",
+        "colonia": "Casa Blanca",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Con tiempo ya que el tráfico hacia pinos aveces es muy pesado",
+        "colonia": "Centro",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "El transporte ideal sería Altisa pero a veces tarda hasta una hora en pasar en Santa Fe ahí en mapa marca la parada y en tarifas que nos respeten la tarifa de estudiante con nuestra credencial y también que nos den la vuelta pues es peligroso cruzar el boulevard",
+        "colonia": "Santa Fe",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Que nos dejen en la entrada de la escuela, es muy peligroso cruzar el Blvd. 2000",
+        "colonia": "Florido",
+        "turno": "Matutino"
+      },
+      {
+        "text": "No contamos con credencial entonces no nos hacen descuento yo lo tomo entre 5:30am a 6:00 aprox",
+        "colonia": "Otay Bellas Artes",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que hubiese más transportes de otay hacia aquel lado ya que siempre van muy llenos oh igual algún transporte de la escuela oh mejores horarios",
+        "colonia": "Calle Durango Las Torres Partes Baja 714",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Tarifa de 15 pesos lo considero justo que pase por los bulevares principales",
+        "colonia": "Florido",
+        "turno": "Matutino"
+      },
+      {
+        "text": "30 minutos antes de las 7",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Un precio justo para mí sería 200 pesos a la semana Para dar más contexto vivo en la calle 1 ro de mayo mariano Matamoros norte pero tomo el transporte que pasa en el bulevar casa blanca que dice refugio de ahí me deja en el puente que está en la plaza oasis y tengo que tomar un transporte que dice natura pero tengo complicaciones para cruzar el corredor 2000 y llegar a la escuela",
+        "colonia": "Mariano Matamoros",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "De la entrada del altiplano, a las 6, $7 por ser estudiantes, que sea un camión largo o grande y asientos para embarazadas",
+        "colonia": "Altiplano",
+        "turno": "Matutino"
+      },
+      {
+        "text": "El transporte público sale de homex pero recorre todo delicias y aunque salga temprano, en delicias 1 se lleva recorriendo 30-40min. Por eso debemos salir temprano de casa para poder llegar a tiempo a la UNRC",
+        "colonia": "Fraccionamiento Los Valles",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Natura ,tarifa de estudiante",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que nos den un apoyo para transporte semanal o mensual",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "15 pesos de transporte para no gastar demasiado diario",
+        "colonia": "Paseos del Vergel",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Si pudieran poner una ruta para no tomar tantas",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Que esté a tiempo para alcanzar a llegar a buena hora . Que haya para mí tuno matutino",
+        "colonia": "Paseos del Vergel",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Ruta violeta qué pase por blvrd Diaz ordaz asta natura y pase ala escuela Horarios de 6 de la mañana",
+        "colonia": "Avenida Acueducto 8636, B",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que tengamos acceso a los camiones que van de retorno hacia natura ya que tenemos que cruzar el bulevar. Que nos den descuento como estudiante ya que se nos Cobra tarifa normal",
+        "colonia": "Delicias",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que pase por todo el bulevar, tarifa de $7 pesos y que pase como 6:30",
+        "colonia": "La Presa",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Considerar otras colonias no solo el boulevard 2000",
+        "colonia": "Margaritas Residencial",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Como soy turno intermedio puedo tomar alguno a las 10 o 9 y la tarifa podría ser 25, cualquiera con tal de que logre retornar a la universidad",
+        "colonia": "Vista De Palmillas 3",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Florido 3ra Sección,6:20,5 pesos",
+        "colonia": "Florido",
+        "turno": "Matutino"
+      },
+      {
+        "text": "La verdad a mí me cobran 20 pesos de natura a la escuela me gustaría que hubiera una tarifa para estudiantes de la UNRC y que a la hora de la salida el taxi levantará personas ahí en la escuela hacia natura por qué siempre tengo que cruzar el boulevard 2000 para ir hacia natura",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Los choferes no te dejan en la universidad, te dejan donde est el puente de las fábricas",
+        "colonia": "5 y 10",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Los taxis que pasan por las fábricas no quieren dar la vuelta disque por el tráfico para retornar",
+        "colonia": "Villa del Campo",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Sería mejor si ubiera transportes solo para los alumnos para q pueda retornar hacia la UNRC, hagarrar el transporte por las 6:20 o 6:30 y que nos cobren 8 pesos (la tarifa de estudiante)",
+        "colonia": "Florido",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Sería bueno uno que recorriera todo el 2000 iniciando desde Otay para la universidad con horarios específicos para los diferentes horarios. En este caso este transporte ya por dónde yo vivo podría pasar a las 6:20 de la mañana. Parándose en paradas de transporte oficiales",
+        "colonia": "Puente De Avenida De Las Aguas",
+        "turno": "Matutino"
+      },
+      {
+        "text": "El que la ruta de Natura cumpla con el Retorno",
+        "colonia": "5&10",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Rutas cercanas y centralizadas y horarios que se adapten para que se pueda llegar en tiempo y forma a la universidad",
+        "colonia": "Santa Fe",
+        "turno": "Matutino"
+      },
+      {
+        "text": "cercas del puente, 6.20, 16 pesos",
+        "colonia": "Florido",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Me gustaría que la ruta comenzará desde el refugio frente a UTT hasta el resto de rutas ya qué es la más cercana a la universidad",
+        "colonia": "Villa del Campo",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que los chóferes hagan valer la tarifa de estudiante sin excepción. Que haya si es posible taxi de salida de cada turno en la universidad, por que no hacen retorno y los que vivimos por el área del cañon del sainz o urbi tenemos retornar en taxi y agarrar otro taxi para regresar a nuestros hogares",
+        "colonia": "Delicias",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Extender ruta de transporte público a urbi villas del prado II",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "6 am y que pase por Urbi 1, k casas, natura",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Matutino"
+      },
+      {
+        "text": "yo tomo 2 taxis para llegar ala univercidad 2 de ida y 2 de regreso (normal mente en la tarde me vengo en uber, por que ya no hay taxis para mi casa",
+        "colonia": "Morita",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Que los camiones de Homex retornen a la hora de la salida para los que venimos de la universidad no gastemos el pasaje de 3 camiones o cruzar la calle",
+        "colonia": "Homex",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Para mí el transporte al terminar el horario de la universidad me ayudaría bastante al no cruzar la carretera, y una tarifa justa serían 18 pesos",
+        "colonia": "Delicias",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que obliguen a las demás rutas dejar en la universidad pues solo los taxis blanco que van a natura lo hacen",
+        "colonia": "5 y 10",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "$18, paseos del vergel, Laurel, refugio inicio 2pm",
+        "colonia": "Paseos del Vergel",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Parece ser que en ese horario solo yo tomo el camión en esa dirección, por favor no me dejen fuera de este proyecto 🙏🙏",
+        "colonia": "Soriana Super",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que pase con más frecuencia a la hora de salida, se batalla mucho para poder agarrar el transporte ( verde crema)",
+        "colonia": "5&10 O Jauja",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que salga un transporte de la universidad para Ke casas/Homex, no importa si es junto con una ruta que vaya para natura, pero que si sea uno que entre a la colonial, porque es estar agarrando dos transportes para llegar a mi casa, de la universidad tomar el transporte que me deja en la sendero y de la sendero agarrar otro, sería más fácil si hubiera una ruta que pasara por ahí mismo en la universidad, que retornará y llegara al destino",
+        "colonia": "Delicias",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Simplemente que hubiera una ruta directo hacia la universidad",
+        "colonia": "Puente De Villa Del Sol",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Pasar por la principal en mi colonia",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Agregar rutas presa a rosario Castellanos",
+        "colonia": "La Presa",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Mas transporte para homex o que retorne los camiones ya que pago tres camiones diarios",
+        "colonia": "Homex",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Tomo la calafia verde a natura y de natura a la escuela a las 3 y los dos me cobran 18 pesos",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Pues solamente que haga retorno",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Del bulevar 2000 a Otay de jueves a sábado después de las 11am",
+        "colonia": "Paseos del Vergel",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Q pongan un puente mejor",
+        "colonia": "Paseos del Vergel",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Opino que deberían cobrarnos 8 pesos de estudiantes",
+        "colonia": "Delicias",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Estaria bien que aqui pasara a las 5:20 para subir a mas estudiantes para la uni con un precio de 8 pesos (eso es lo que cobran generalmente el pasaje de estudiante)",
+        "colonia": "Delicias",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Rutas que retornen para la parada de la universidad",
+        "colonia": "Avenida Venecia Villa Fontana",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Pues la ayuda sería más en los horarios que los alumnos entran o salen pues está muy peligroso el Cruze del blvd 2000 y más para embarazadas o con alguna discapacidad",
+        "colonia": "Natura",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Rutas de Ke Casas a la Universidad y de regreso, de preferencia en la mañana y medio día, y cobro de 10 pesos",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Gasto 80 diarios (2 transportes ,ida i vuelta)salgo alas 6:00 am de la mañana",
+        "colonia": "Villa del Campo",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que pase por el mariano del Calimax alas 10",
+        "colonia": "Centro",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Alguna ruta específica que venga hacia los pinos, horario entre 10:50am a 11:15am",
+        "colonia": "Bulevar Díaz Ordaz, Pinos",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Taxis que si den retorno para la universidad ya que unos que deberían dar retorno se niegan y nos ponen en peligro cruzando el boulevard",
+        "colonia": "Privada Magnolias",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Hola yo tomaría la ruta, ya que por el momento me gasto mucho ir a la universidad aprox 80 por día por 6 días a la semana la verdad esto es muy Carito, esto porque tenemos que transbordar al puente más cercano que es la plaza sendero ya que no contamos con puente y los camiones no dan el retorno. Ojo para los de natura el problema no es llegar es como regresar!",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Me gustaría que hubiera una ruta que me llevará de la universidad hasta donde vivo ( Urbi Villas del prado 2da sección) o algo parecido, ya que mire que tengo que transbordar mucho",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Deberían considerar agregar unas rutas más de transporte",
+        "colonia": "Florido",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Transporte publico súper saturado por las mañanas, en la hora de salida no retornan y tengo que caminar y cruzar el blvd o pagar otro transporte para poder cruzar",
+        "colonia": "Delicias",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Transporte seguro de regreso que nos recoja en la universidad si cruzar el blvd 2000",
+        "colonia": "Natura",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Que no nos falten al respeto los choferes al subir, al igual que ellos tampoco tenemos culpa de que no nos hagan un puente, que retornen por favor, aveces llevo a mi hija de 4 años conmigo, 9:30 am salida del centro para la universidad, está última vez me hicieron llorar cuando me bajaron del taxi, por no quererme retornar",
+        "colonia": "Centro",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Solo que nos retornen pues desde el semestre pasado se batalla mucho para que lo hagan , oh hacer una ruta solo para alumnos de UNRC",
+        "colonia": "Otay Bellas Artes",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Podría ser que pase a las 6:20, y sobre la tarifa que sean 15 pesos",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Una ruta que pase desde pacífico, llegué a 5 y 10 para irse directo por la vía rápida, tomar el acceso al 2000 y que llegué a la Universidad, el horario ideal para mí sería que pasara a la 1 aproximadamente, y una tarifa justa podría ser desde los 14 a los 18 pesos",
+        "colonia": "Plaza Pacífico",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Recorrido a urbi primera, delicias, k-casas, comienzo de ruta 5:30 saliendo de urbi primera, tarifa de $18-25 pesos",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Ruta Carretera Tecate- Universidad / horario 7:00 am. 11;00 am. 15: pm y 19:00 pm",
+        "colonia": "Fraccionamiento Villas Del Campo",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Podría pasar desde Centro y Santa Fe como a la 1:30",
+        "colonia": "Centro",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Camino mucho hace la parada",
+        "colonia": "Delicias",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Me gustaría que hubiera un transporte directo ya que, los taxis de la zona no retornan en la universidad, termino pagando bastante en transporte hasta 3 transportes",
+        "colonia": "Centro",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Via rapida ya que llegaríamos directo y mas pronto o por insurgentes sirve que vamos recomiendo mas estudiantes",
+        "colonia": "Centro",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Utilizó dos trasportes, de la colonia vistas del valle hacia el puente de plaza sendero, luego la ruta del camion de 5 y 10 a natura, regularme la tarifa es de 15 pesos",
+        "colonia": "Colonia Vista Del Valle, 22330",
+        "turno": "Matutino"
+      },
+      {
+        "text": "A la hora de la salida no hay taxi de regreso a natura que retorne, se tiene que cruzar la calle corriendo o trasbordar a sendero cruzar el puente de carros y tomar de ahí el taxi",
+        "colonia": "Natura",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Que salgan más seguido los taxis negro con rojo para natura porfavor, para llegar a tiempo 🙏",
+        "colonia": "5 y 10",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Se pude pasar por colonias cercanas como delicias 2 , homex para aprovechar la ruta de transporte",
+        "colonia": "Natura",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "De Tecate me bajo en puente sendero, sería bueno alguno que pasará por ahí o por refugio, me quedaría muy bien ya que en puente sendero tomo una combi que me deja enfrente de la universidad y tengo que cruzar la avenida. Me ayudaría si pasar aún que sea por bodega Aurrera el refugio o puente sendero",
+        "colonia": "Plaza Paseo 2000",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "que respeten el precio de estudiante y que haya un transporte que salga desde donde me ubico",
+        "colonia": "Vistas Del Valle",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Que los camiones pasen hasta las 9:00pm y que retornen",
+        "colonia": "5 y 10",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "No me importaría pagar una tarifa siempre y cuando se me asegure y garantice el no cruzar a pie el boulevard",
+        "colonia": "Casa Blanca",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Que hubiera rutas específicas con sus respectivos horarios",
+        "colonia": "Villa del Campo",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Que hagan que el transporte obligatoriamente tenga que retornar, porque cuando se les pide que lo hagan se niegan, hasta se ríen en tu cara o empiezan a quejarse con otros pasajeros",
+        "colonia": "Fuera De Fábrica Panasonic 2do Eje Oriente Poniente No 19400",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Tarifa que se consideraría justa 22 pesos y me gustaría agarrar el transporte a las 6:30 está es la ubicación de mi punto de partida [link omitido]",
+        "colonia": "Natura",
+        "turno": "Matutino"
+      },
+      {
+        "text": "tarifa de 15 pesos",
+        "colonia": "Urbi Villas del Prado",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "Ruta específica de ese punto a la escuela , con tarifa considerable para nosotros. Quizás no preferible, pero considerado, que no exagere el precio, por qué si cruzar el bulevar , daña un derecho humano, que es el derecho a la vida. Por no tener un puente nosotros , los que no tenemos vehículo pequeño para llevar a la universidad, corremos riesgo, por nuestra vida, al cruzar. De hecho si no veo que se hace algo , respecto al tema en lo que se hace un cruce o algo yo me pasaré en línea, para evitar un accidente a futuro, por que si la vía de venida de rosarito es donde vienen más rapido, los autos. Y es donde más tarda uno para pasar",
+        "colonia": "El Refugio",
+        "turno": "Matutino"
+      },
+      {
+        "text": "Ala salida no hay un puente que nos deje tomar el transporte del otro lado del vulebar y hay q caminar en medio por la malla q pusieron hasta la fábrica para poder tomar el camión de regreso",
+        "colonia": "Delicias",
+        "turno": "Intermedio"
+      },
+      {
+        "text": "No importa solo que me deje en la escuela",
+        "colonia": "Otay Bellas Artes",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "solo tomar un transporte y mi parte como soy de natura tomo dos transportes uno de venida y de ida tomo dos uno de la escuela al puente de la sendero y de la sendero a natura y una tarifa 10 pesos",
+        "colonia": "Natura",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Delicias 3, de 2 a 7 p. M",
+        "colonia": "Delicias",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Recorrido de Ley Express a la universidad. Un costo de 15 a 17 pesos",
+        "colonia": "Tijuana Progreso",
+        "turno": "Vespertino"
+      },
+      {
+        "text": "Villafloresta y la vdd trabajo razones no he ido a la universidad y trabajo 😅 demasiado",
+        "colonia": "No especificado",
+        "turno": "Matutino (7:00 a 11:00)"
+      }
+    ]
+  },
+  "methodology": [
+    "La base original se conserva para analisis interno y la publicacion web solo usa datos anonimizados.",
+    "Las coordenadas publicas usan jitter determinista para evitar exponer puntos exactos de origen.",
+    "Los agregados de turnos, dias, colonias y sugerencias se calculan sobre la encuesta completa procesada.",
+    "No se publican nombres, apellidos, correos, telefonos, matriculas ni enlaces de mapas compartidos por estudiantes."
+  ],
+  "downloads": {
+    "pdf": "/downloads/reporte-demanda-transporte.pdf",
+    "csv": "/downloads/public_points.csv"
+  },
+  "map": {
+    "count": 190,
+    "center": [
+      32.464653,
+      -116.924751
+    ]
+  }
+}
